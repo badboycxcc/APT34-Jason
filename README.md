@@ -1,5 +1,12 @@
 # APT34-Jason
 
+--- 
+2023/05/28 编译 
+.net 4.8 编译 
+下载地址：https://github.com/badboycxcc/APT34-Jason/releases/download/untagged-f0e43f85615ac7852f61/Release.zip
+
+----
+
 Source:
 
 https://github.com/p3pperp0tts/APT34/tree/master/Jason/decompiled_code
